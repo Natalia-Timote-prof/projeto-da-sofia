@@ -1,53 +1,42 @@
 body {
   text-align: center;
   background-color: black;
-  margin: 0;
-  padding: 0;
-  color: white;
 }
 
 h1, h2 {
   color: orange;
-  margin: 20px 0;
 }
 
 p {
   color: white;
-  font-size: 24px;
-  margin: 10px 0;
-  line-height: 1.6;
-}
+} 
 
 header {
   background-color: black;
   color: white;
-  padding: 20px 0;
 }
 
-nav {
-  margin: 20px 0;
+nav { 
+  margin: 10px 0;
   text-align: center;
 }
 
-nav a {
+nav a{
   margin: 0 15px;
   text-decoration: none;
   color: white;
 }
 
-nav a:hover {
+nav a:hover{
   color: green;
   text-decoration: none;
 }
 
 img {
-  height: auto;
-  max-width: 100%;
-  border-radius: 10px;
-  margin-bottom: 20px;
+  height: 360px;
+  border-radius: 50px;
 }
 
-section {
-  margin-bottom: 40px;
-  padding: 10px;
+p {
+  font-size: 24px;
 }
