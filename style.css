@@ -1,0 +1,42 @@
+body {
+  text-align: center;
+  background-color: black;
+}
+
+h1, h2 {
+  color: orange;
+}
+
+p {
+  color: white;
+}
+
+header {
+  background-color: black;
+  color: white;
+}
+
+nav {
+  margin: 10px 0;
+  text-align: center;
+}
+
+nav a {
+  margin: 0 15px;
+  text-decoration: none;
+  color: white;
+}
+
+nav a:hover {
+  color: green;
+  text-decoration: none;
+}
+
+img {
+  height: 360px;
+  border-radius: 50px;
+}
+
+p {
+  font-size: 24px;
+}
